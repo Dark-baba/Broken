@@ -1,8 +1,7 @@
 # Broken just fun 😁 
 
-use pydroid 3 
-
-# termux 
-ls 
-cd broken 
-python broken.py
+# use pydroid 3 
+first you install pydroid 3 
+and pip install 
+turtle
+and run 😁
